@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\res\\merged\\debug\\xml_touch_wall_paper.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\src\\main\\res\\xml\\touch_wall_paper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

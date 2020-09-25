@@ -1,0 +1,4 @@
+#Fri Sep 25 16:31:05 CST 2020
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\Demo17_WallPaperExercise\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
